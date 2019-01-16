@@ -4,4 +4,3 @@ a
 test
 batbayar
 yes
-tsenguun
