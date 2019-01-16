@@ -16,3 +16,4 @@ E:\MCE\Github Projects\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestS
 E:\MCE\Github Projects\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestSoftware.csproj.GenerateResource.Cache
 E:\MCE\Github Projects\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestSoftware.exe
 E:\MCE\Github Projects\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestSoftware.pdb
+C:\Users\tseng\Documents\GitHub\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestSoftware.Form2.resources
