@@ -13,7 +13,7 @@ namespace TestSoftware
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = "Hello, " + textBox1.Text + " !";
-            MessageBox.Show("hello");
+            //MessageBox.Show("hello");
         }
     }
 }
