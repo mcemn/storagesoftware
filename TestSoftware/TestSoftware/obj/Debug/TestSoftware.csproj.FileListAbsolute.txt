@@ -1,0 +1,9 @@
+C:\Users\tseng\Documents\GitHub\storagesoftware\TestSoftware\TestSoftware\bin\Debug\TestSoftware.exe.config
+C:\Users\tseng\Documents\GitHub\storagesoftware\TestSoftware\TestSoftware\bin\Debug\TestSoftware.exe
+C:\Users\tseng\Documents\GitHub\storagesoftware\TestSoftware\TestSoftware\bin\Debug\TestSoftware.pdb
+C:\Users\tseng\Documents\GitHub\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestSoftware.csprojResolveAssemblyReference.cache
+C:\Users\tseng\Documents\GitHub\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestSoftware.Form1.resources
+C:\Users\tseng\Documents\GitHub\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestSoftware.Properties.Resources.resources
+C:\Users\tseng\Documents\GitHub\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestSoftware.csproj.GenerateResource.Cache
+C:\Users\tseng\Documents\GitHub\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestSoftware.exe
+C:\Users\tseng\Documents\GitHub\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestSoftware.pdb
