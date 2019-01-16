@@ -19,7 +19,7 @@ namespace TestSoftware
 
         private void Form3_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("wtf");
+            MessageBox.Show("kljhgkhkljhkljhlkhj");
         }
     }
 }
