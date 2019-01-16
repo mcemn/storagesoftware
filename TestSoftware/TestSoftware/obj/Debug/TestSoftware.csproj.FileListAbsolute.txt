@@ -7,3 +7,12 @@ C:\Users\tseng\Documents\GitHub\storagesoftware\TestSoftware\TestSoftware\obj\De
 C:\Users\tseng\Documents\GitHub\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestSoftware.csproj.GenerateResource.Cache
 C:\Users\tseng\Documents\GitHub\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestSoftware.exe
 C:\Users\tseng\Documents\GitHub\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestSoftware.pdb
+E:\MCE\Github Projects\storagesoftware\TestSoftware\TestSoftware\bin\Debug\TestSoftware.exe.config
+E:\MCE\Github Projects\storagesoftware\TestSoftware\TestSoftware\bin\Debug\TestSoftware.exe
+E:\MCE\Github Projects\storagesoftware\TestSoftware\TestSoftware\bin\Debug\TestSoftware.pdb
+E:\MCE\Github Projects\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestSoftware.csprojResolveAssemblyReference.cache
+E:\MCE\Github Projects\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestSoftware.Form1.resources
+E:\MCE\Github Projects\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestSoftware.Properties.Resources.resources
+E:\MCE\Github Projects\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestSoftware.csproj.GenerateResource.Cache
+E:\MCE\Github Projects\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestSoftware.exe
+E:\MCE\Github Projects\storagesoftware\TestSoftware\TestSoftware\obj\Debug\TestSoftware.pdb
